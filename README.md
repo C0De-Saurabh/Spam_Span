@@ -3,6 +3,21 @@
 Spam Span is a spam detection and contact management system inspired by Truecaller. It provides functionalities like spam reporting, secure contact management, and advanced search capabilities to enhance user communication.
 
 ---
+## Tech Stack
+
+### Backend
+- **Golang**: A highly performant programming language used for building the backend of the application.
+- **Gin Framework**: A lightweight and fast web framework for building RESTful APIs in Go.
+- **GORM**: An ORM library for interacting with the SQLite database in a Go idiomatic way.
+
+### Database
+- **SQLite**: A lightweight and file-based relational database used for simplicity and quick development.
+
+### Authentication
+- **JWT (JSON Web Token)**: Used for secure authentication and session management.
+
+### Testing & Development
+- **Faker**: A library for generating fake data for testing purposes.
 
 ## Features
 
